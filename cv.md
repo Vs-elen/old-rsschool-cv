@@ -21,4 +21,4 @@ Final project comprising AJAX, API requests, BEM and Webpack technologies: https
 Frontend career development program at Yandex.Praktikum
 ### Languages
 * Russian(native)
-* English(С2): gradute of Volgograd State University(Department of English Philology)
+* English(С2): graduate of Volgograd State University(Department of English Philology)
