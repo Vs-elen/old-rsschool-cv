@@ -12,10 +12,10 @@ Junior Frontend Developer with passion for building responsive web applications 
 * Adobe Photoshop
 
 ### Code examples
-<https://github.com/Vs-elen/Webpack-Mesto>
+<https://github.com/Vs-elen/Webpack-Mesto>  
 <https://github.com/Vs-elen/tutorial.github.io>
 ### Experience
-Student of Yandex.Praktikum Jan, 2020 - Sep, 2020
+Student of Yandex.Praktikum Jan, 2020 - Sep, 2020  
 Created single page applications using responsive design.
 Final project comprising AJAX, API requests, BEM and Webpack technologies: <https://github.com/Vs-elen/diploma>
 ### Education 
