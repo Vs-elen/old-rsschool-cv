@@ -1,0 +1,15 @@
+@import url(__author/info__author.css);
+@import url(__author-photo/info__author-photo.css);
+@import url(__name/info__name.css);
+@import url(__job/info__job.css);
+@import url(__about/info__about.css);
+@import url(__about-text/info__about-text.css);
+@import url(__about-title/info__about-title.css);
+@import url(__contacts/info__contacts.css);
+@import url(__contacts-item/info__contacts-item.css);
+
+.info { 
+    max-width: 478px;
+    margin: 38px 0 38px 168px;
+    background-color: #ecf6fa;
+}

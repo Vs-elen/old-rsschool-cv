@@ -1,0 +1,6 @@
+@import url(_style_bold/additional__text_style_bold.css);
+
+.additional__text {
+    padding-left: 40px;
+    font-size: 20px;
+}

@@ -1,0 +1,13 @@
+@import url(__list-item/additional__list-item.css);
+@import url(__skills-list/additional__skills-list.css);
+@import url(__item/additional__item.css);
+@import url(__title/additional__title.css);
+@import url(__experience-place/additional__experience-place.css);
+@import url(__text/additional__text.css);
+
+.additional {
+    max-width: 478px;
+    margin: 38px  168px 38px  0;
+    padding-top: 74px;
+    padding-left: 24px;
+}
